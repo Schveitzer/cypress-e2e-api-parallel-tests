@@ -1,0 +1,14 @@
+{
+  "name": "cypress-e2e-api-parallel-tests",
+  "version": "1.0.0",
+  "description": "cypress tests",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alan Schveitzer",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.2"
+  }
+}
